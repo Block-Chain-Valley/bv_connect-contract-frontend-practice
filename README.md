@@ -1,11 +1,22 @@
-# Getting Started with Create React App
+# 23-2 블록체인밸리 개발팀 세션 3주차 전반부 세션 실습용 Repository
+## 지갑연결과 컨트랙트 상호작용
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ```src/components/constants.ts``` 에 Alchemy에서 받은 SeopoliaRPCUrl 입력
+```src/components/constants.ts```에
+```shell
+export const constants = {
+  ContractAddress: "0x806E846858E752eb9f709e9EB3803b9217fbe4d0",
+  SeopoliaRPCUrl:
+    "여기에_넣어주세요",
+};
+```
+을 작성해주세요.
 
-## Available Scripts
+## 빈칸 없는 ver.(답지)은 아래의 repo를 참고하세요.
+[230927SessionArchive](https://github.com/Learning-N-Running/230927SessionArchive, "230927SessionArchive link")
 
-In the project directory, you can run:
 
+## Available scripts
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -31,13 +42,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
