@@ -13,7 +13,7 @@ export const constants = {
 을 작성해주세요.
 
 ## 빈칸 없는 ver.(답지)은 아래의 repo를 참고하세요.
-[230927SessionArchive](https://github.com/Learning-N-Running/230927SessionArchive, "230927SessionArchive link")
+[230927SessionArchive](https://github.com/Learning-N-Running/230927SessionArchive , "230927SessionArchive link")
 
 
 ## Available scripts
